@@ -29,7 +29,7 @@ Tabletop Encounter Tracker is a Java-based application designed to assist tablet
 ## Demo Video
 
 Watch the project demonstration:
-👉 (Insert your YouTube link here)
+(https://youtu.be/MC230jvJoRY?si=5LBEnjr1MBwAPuaf)
 
 ## Future Improvements
 
